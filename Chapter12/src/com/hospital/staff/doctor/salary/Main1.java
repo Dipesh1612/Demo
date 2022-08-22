@@ -1,0 +1,18 @@
+package com.hospital.staff.doctor.salary;
+
+public class Main1 {
+
+	public static void main(String[] args) {
+		try {
+			int[] a = new int[5];
+			a[5] =4;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+		} catch (ArrayIndexOutOfBoundsException e) {
+			System.out.println("1 st");
+		} catch (ArithmeticException e) {
+			System.out.println("2nd");
+		} catch (Exception e) {
+			System.out.println("3rd");
+		}
+		System.out.println("4th");
+	}
+}
